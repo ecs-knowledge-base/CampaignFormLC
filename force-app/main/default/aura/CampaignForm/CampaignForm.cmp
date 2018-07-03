@@ -20,8 +20,8 @@
     <!-- Save the record Id when the new Campaign is created -->
     <aura:attribute name="campaignRecordId" type="String" />
 
-    <!-- Call the toast message if required -->
-    <c:toast />
+    <!-- Call the toast message if required
+    <c:toast /> -->
 
     <!-- Lightning Design System Class is used in order to set the design of the text elements -->
     <div class="slds-m-top_large">

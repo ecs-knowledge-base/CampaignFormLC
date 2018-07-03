@@ -1,0 +1,407 @@
+[
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530601289248,
+            "changeTime": 1530601343058,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530601289248,
+            "changeTime": 1530601289248,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530601610100,
+            "changeTime": 1530601610100,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530601553052,
+            "changeTime": 1530601553052,
+            "contentHash": "21af90c3ef977a5d3ec47ea33298c67cd6186dc6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530601553032,
+            "changeTime": 1530601553032,
+            "contentHash": "e605eaa84ecd95791b49f029b59fe0d581c6f430",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1516715558454,
+            "changeTime": 1530601552692,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3666,
+            "modifiedTime": 1517318897402,
+            "changeTime": 1530601552777,
+            "contentHash": "c321b1a3632224720006425d33134206ee888efe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 244,
+            "modifiedTime": 1516715558429,
+            "changeTime": 1530601552792,
+            "contentHash": "d76855783a283b212329e1a2a2b2b97aab46471e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1516715558442,
+            "changeTime": 1530601552852,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1516715558458,
+            "changeTime": 1530601552882,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignForm.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1516715558450,
+            "changeTime": 1530601552922,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignFormController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3141,
+            "modifiedTime": 1517324621829,
+            "changeTime": 1530601552962,
+            "contentHash": "2ee24988568368e7efca0efd0c2a7d85b07fbffb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignFormHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1516715558437,
+            "changeTime": 1530601553002,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignFormRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignForm\\CampaignFormRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1516715558445,
+            "changeTime": 1530601553032,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530601553324,
+            "changeTime": 1530601553324,
+            "contentHash": "fdebc1e1a1d76106eea2dfcbe2bc31c68aacb8f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1517242446512,
+            "changeTime": 1530601553112,
+            "contentHash": "de2c066319a159b46e58a1561ee0483f6925d204",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 249,
+            "modifiedTime": 1516718173457,
+            "changeTime": 1530601553132,
+            "contentHash": "a2cf03d96944bda8c259fe4c3434eb2842273ff3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1516718173489,
+            "changeTime": 1530601553172,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1516718173473,
+            "changeTime": 1530601553212,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormApp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1516718173483,
+            "changeTime": 1530601553242,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormAppController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1516718173463,
+            "changeTime": 1530601553272,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormAppHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1516718173468,
+            "changeTime": 1530601553302,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormAppRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\aura\\CampaignFormApp\\CampaignFormAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1516718173478,
+            "changeTime": 1530601553324,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530601621869,
+            "changeTime": 1530601621869,
+            "contentHash": "4e91ec2cf1fc09a511e1d9c4719193460685a694",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\classes\\CampaignFormController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\classes\\CampaignFormController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 322,
+            "modifiedTime": 1516874292571,
+            "changeTime": 1530601621869,
+            "contentHash": "508257eb16c4aca19e583cabf1943fff1284b8e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\classes\\CampaignFormController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp\\force-app\\main\\default\\classes\\CampaignFormController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1516877723135,
+            "changeTime": 1530601621829,
+            "contentHash": "5a2df855fa18e7a17b6822ba6e0d9c33981c5c6f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\acasadoh\\ecs-knowledge-base\\CampaignFormApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530606108128,
+            "changeTime": 1530606108128,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
