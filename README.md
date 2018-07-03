@@ -1,9 +1,9 @@
 # Campaign Form Lightning Component App
 
 ## Salesforce Deploy button (Sandbox)
-<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi">
+<a href="https://githubsfdeploy.herokuapp.com?owner=ecs&repo=ecs-knowledge-base">
   <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
 
