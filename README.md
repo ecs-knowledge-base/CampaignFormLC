@@ -1,7 +1,7 @@
 # Campaign Form Lightning Component App
 
 ## Salesforce Deploy button (Sandbox)
-<a href="https://githubsfdeploy.herokuapp.com?owner=ecs&repo=ecs-knowledge-base">
+<a href="https://githubsfdeploy.herokuapp.com">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
